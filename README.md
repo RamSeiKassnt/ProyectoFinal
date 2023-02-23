@@ -9,5 +9,6 @@ Existe tambien una seccion oculta (register) en el proyecto donde podremos desde
 
 otros problemas encontrados: a veces muestra algun error en el codico al intentar hacer el CRUD de los modelos, aunque refrescando la pagina logra hacerlo sin problemas (no encontre el error como para corregirlo ya que, como digo, lo soluciona haciendo un refresh de la pagina; entiendo es algo del cache)
 
+superusuario:
 Usuario: RamSe
 contraseña: Coder1234
