@@ -12,3 +12,7 @@ otros problemas encontrados: a veces muestra algun error en el codico al intenta
 superusuario:
 Usuario: RamSe
 contraseña: Coder1234
+
+Video explicativo de navegacion en el siguiente link
+https://drive.google.com/file/d/1ImcPRO9UzDkKz1rZnRgpT5Pa43drceHM/view?usp=share_link
+
